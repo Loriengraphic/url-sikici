@@ -5,8 +5,8 @@ const fesgiymissura = require('fs');
 const request = require('request');
 client.aktif = "true"
 client.token = ""
-client.sunucuid = "776418332600827944"
-client.url = "knaves"
+client.sunucuid = ""
+client.url = ""
 fesgiymissura.readdir("./Etkinlikler/", (err, orospuevladıklasor) => {
   if (err) return console.myTime(err);
   orospuevladıklasor.forEach(sikimsonikbot => {
