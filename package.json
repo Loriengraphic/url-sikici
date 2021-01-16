@@ -1,0 +1,28 @@
+{
+  "//1": "YARRAKLAR BAŞ KALDIRMIŞ!",
+  "//2": "KAVUŞMUYOR DELİKLER!",
+  "//3": "ABRAHAM SWEATVOİCE",
+  "name": "acar-url-spammer",
+  "version": "0.0.1",
+  "description": "Eheğeğeğğeğeğeeğeğ URL Spammer mii ? ozaman ACAR Altyapı Seks için!",
+  "main": "start.js",
+  "scripts": {
+    "start": "node start.js"
+  },
+  "dependencies": {
+    "discord.js": "^12.5.1",
+    "express": "^4.17.1",
+    "ms": "^2.1.3",
+    "request": "^2.88.2"
+  },
+  "engines": {
+    "node": "12.x"
+  },
+  "license": "MIT",
+  "keywords": [
+    "node",
+    "express"
+  ],
+  "devDependencies": {},
+  "author": "acarfx"
+}
